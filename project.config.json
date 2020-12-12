@@ -34,12 +34,12 @@
     "minifyWXSS": true
   },
   "compileType": "miniprogram",
-  "libVersion": "1.9.94",
-  "appid": "wxcdfa4fc41c44e772",
+  "libVersion": "2.14.1",
   "projectname": "weather",
   "isGameTourist": false,
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
+  "appid": "wxcdfa4fc41c44e772",
   "condition": {
     "search": {
       "list": []
