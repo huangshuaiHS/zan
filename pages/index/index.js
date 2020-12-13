@@ -89,7 +89,7 @@ Page({
     toSearchPage() {
         wx.navigateToMiniProgram({
             appId: "wx1bf859f9f6914523",
-            path: "pages/map/map",
+            path: "pages/map/map?&ald_media_id=80101&ald_link_key=0a042943700a3964",
             envVersion: 'release',
             success(res) {
                 console.log("打开成功", res)
